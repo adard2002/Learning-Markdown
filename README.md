@@ -1,4 +1,4 @@
-> ###### Hello, my name is Adara and welcome to my website! Below will be some information about having a growth mindset and a fixed mindset. If you like what you see on my website you can go check out my other stuff too at https://adard2002.github.io/Learning-Markdown/.
+> ###### Hello, my name is Adara and welcome to my website! Below will be some information about having a growth mindset and a fixed mindset. If you like what you see on my website you can go check out my other stuff too at [Growth Mindset](https://adard2002.github.io/Learning-Markdown/).
 
 
 # What is Growth Mindset?
