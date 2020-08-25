@@ -3,7 +3,7 @@
 
 # What is Growth Mindset?
 
-## Growth Mindset- 
+## Growth Mindset
 
 * When you are in the process of learning something. It means to expand your mind and to not give up on something just because someone else is better at the subject than you are. They were once at that stage too. Everyone starts somewhere, baby steps are still steps. When someone criticizes you don't feel bad, instead take advantage of it and see where you made the mistake and take note of what to do next time.
 
