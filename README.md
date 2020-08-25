@@ -1,4 +1,4 @@
-> ###### Hello, my name is Adara and welcome to my website! Below will be some information about having a growth mindset and a fixed mindset. If you like what you see on my website you can go check out my other stuff too at [My GitHub Repositories!](https://github.com/adard2002?tab=repositories).
+-> > ###### Hello, my name is Adara and welcome to my website! Below will be some information about having a growth mindset and a fixed mindset. If you like what you see on my website you can go check out my other stuff too at [My GitHub Repositories!](https://github.com/adard2002?tab=repositories).
 
 
 # What is Growth Mindset?
@@ -17,4 +17,4 @@
 
 ![Growth Mindset](https://cpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/8/197/files/2017/05/Growth-Mindset_Copyright-Big-Change1.jpg)
 
-## Difference between a Growth and a fixed mindset.
+## Difference between a Growth and a fixed mindset. <-
