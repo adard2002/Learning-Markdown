@@ -18,8 +18,3 @@
 ![Growth Mindset](https://cpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/8/197/files/2017/05/Growth-Mindset_Copyright-Big-Change1.jpg)
 
 ## Difference between a Growth and a fixed mindset.
-
-|  First Column  | Second Column |Third Column |
-| :--------------|:-------------:|------------:|
-|   Left align   | Center Align  | Right Align |
-|     Item 1     |    Item 2     |    Item 3   |
