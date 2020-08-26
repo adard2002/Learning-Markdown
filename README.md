@@ -16,10 +16,3 @@
 - Don't give up on something just because your friend is better at something than you are. Instead of thinking "I can't do this" say "I can try a different strategy." go at it with a positive attitude.
 
 ![Growth Mindset](https://cpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/8/197/files/2017/05/Growth-Mindset_Copyright-Big-Change1.jpg)
-
-<div id="sideMenu"> 
-	[Growth Mindset(https://adard2002.github.io/Learning-Markdown/)] 
-</div> 
-<div id="mainContent"> 
-	[CONTENT] 
-</div>
